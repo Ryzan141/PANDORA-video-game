@@ -3,7 +3,17 @@ This is video game designed from scratch in Unity
 
 # Preview Videos
 Note: The following Video was from testing my game on a standard laptop
-Note: I designed and programmed the whole game but did not do visual so the quality of animations, 3d models, and coloring won't be the best of quality.
+Note: I designed and programmed the whole game but did not do visuals so the quality of animations, 3d models, and coloring won't be of the best quality.
+
+# Gameplay
+Note: enemy's attack function was turned off in order to just look at their tracking and behaviour.
+Note: Debugging mode is on so you will see icons appearing and raytracing lines.
+
+Enemies' behaviour and pathfinding:
+
+https://github.com/Ryzan141/PANDORA-video-game/assets/121772170/17fd0272-3eef-458e-ac8c-cbe1366c6613
+
+
 # UI
 For changing preferences:
 
@@ -24,13 +34,6 @@ For starting the game:
 
 https://github.com/Ryzan141/PANDORA-video-game/assets/121772170/640fd5f1-5751-4508-be59-9fa6acaba96a
 
-# Gameplay
-Note: enemy's attack function was turned off in order to just look at their tracking and behaviour.
-Note: It was in debugging mode so you will see icons flashing and raytracing lines.
-
-Enemies' behaviour and pathfinding:
-
-https://github.com/Ryzan141/PANDORA-video-game/assets/121772170/17fd0272-3eef-458e-ac8c-cbe1366c6613
 
 
 
