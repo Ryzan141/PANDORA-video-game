@@ -24,7 +24,13 @@ For starting the game:
 
 https://github.com/Ryzan141/PANDORA-video-game/assets/121772170/640fd5f1-5751-4508-be59-9fa6acaba96a
 
+# Gameplay
+Note: enemy's attack function was turned off in order to just look at their tracking and behaviour.
+Note: It was in debugging mode so you will see icons flashing and raytracing lines.
 
+Enemies' behaviour and pathfinding:
+
+https://github.com/Ryzan141/PANDORA-video-game/assets/121772170/17fd0272-3eef-458e-ac8c-cbe1366c6613
 
 
 
