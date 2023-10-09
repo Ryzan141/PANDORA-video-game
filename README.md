@@ -3,11 +3,14 @@ This is video game designed from scratch in Unity
 
 # Preview Videos
 Note: The following Video was from testing my game on a standard laptop
+<br />
 Note: I designed and programmed the whole game but did not do visuals so the quality of animations, 3d models, and coloring won't be of the best quality.
 
 # Gameplay
 Note: enemy's attack function was turned off in order to just look at their tracking and behaviour.
+<br />
 Note: Debugging mode is on so you will see icons appearing and raytracing lines.
+<br />
 
 Enemies' behaviour and pathfinding:
 
